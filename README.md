@@ -1,4 +1,6 @@
-![nz](https://raw.githubusercontent.com/haven-jeon/haven-jeon/master/imgs/nz.jpg)
+
+<img width="450" alt="Lake Tekapo" src="https://raw.githubusercontent.com/haven-jeon/haven-jeon/master/imgs/nz.jpg" align='center'>
+
 
 I'm the husband of a kind woman and a dad like a friend of good sons.
 
