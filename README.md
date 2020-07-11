@@ -1,4 +1,5 @@
-![nz](imgs/nz.jpg)
+![nz](https://raw.githubusercontent.com/haven-jeon/haven-jeon/master/imgs/nz.jpg)
+
 I'm the husband of a kind woman and a dad like a friend of good sons.
 
 I am a software engineer from Korea 🇰🇷. I like software development and value it in making what people need and can use comfortably.
