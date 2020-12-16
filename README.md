@@ -26,4 +26,35 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Haven's github stats](https://github-readme-stats.vercel.app/api?username=haven-jeon&show_icons=true&hide_border=true) 
+## Github status
+
+<a href="https://github.com/haven-jeon/haven-jeon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haven-jeon&hide=html,scss,cuda&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=TIL" />
+</a>
+<a href="https://github.com/haven-jeon/haven-jeon">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=haven-jeon&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="haven-jeon's GitHub Stats" />
+</a>
+
+<a href="https://github.com/haven-jeon/PyKoSpacing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haven-jeon&repo=PyKoSpacing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/haven-jeon/KoNLP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haven-jeon&repo=KoNLP&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/haven-jeon/KoSpacing">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=haven-jeon&repo=KoSpacing&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/SKTBrain/KoBERT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SKTBrain&repo=KoBERT&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/SKT-AI/KoGPT2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SKT-AI&repo=KoGPT2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/SKT-AI/KoBART">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SKT-AI&repo=KoBART&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
