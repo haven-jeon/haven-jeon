@@ -51,6 +51,10 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SKTBrain&repo=KoBERT&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
+<a href="https://github.com/SKT-AI/KoGPT2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SKT-AI&repo=KoGPT2&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 <a href="https://github.com/SKT-AI/KoBART">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SKT-AI&repo=KoBART&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
